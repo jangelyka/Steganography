@@ -1,8 +1,6 @@
 # This program focuses on hiding a message or an image within an image; it
 # also extracts a message or an image that was hidden within the image
 
-# Author: Jangelyka Restituyo Rosario
-# Author: Luis Manuel Fontán Rodríguez
 # Date: May 24, 2023
 
 def main():
